@@ -4,19 +4,19 @@
 
 | Day                                        | 1   | 2   | 📃                        | ⏲️   | | Day                                        | 1   | 2   | 📃                        | ⏲️   |
 | ------------------------------------------ | :-: | :-: | :-----------------------: | :--: |-| -------------------------------------------| :-: | :-: | :-----------------------: | :--: |
-| [01](https://adventofcode.com/2022/day/1)  |     |     |                           |      | | [14](https://adventofcode.com/2022/day/14) |     |     |                           |      |
-| [02](https://adventofcode.com/2022/day/2)  |     |     |                           |      | | [15](https://adventofcode.com/2022/day/15) |     |     |                           |      |
-| [03](https://adventofcode.com/2022/day/3)  |     |     |                           |      | | [16](https://adventofcode.com/2022/day/16) |     |     |                           |      |
-| [04](https://adventofcode.com/2022/day/4)  |     |     |                           |      | | [17](https://adventofcode.com/2022/day/17) |     |     |                           |      |
-| [05](https://adventofcode.com/2022/day/5)  |     |     |                           |      | | [18](https://adventofcode.com/2022/day/18) |     |     |                           |      |
-| [06](https://adventofcode.com/2022/day/6)  |     |     |                           |      | | [19](https://adventofcode.com/2022/day/19) |     |     |                           |      |
-| [07](https://adventofcode.com/2022/day/7)  |     |     |                           |      | | [20](https://adventofcode.com/2022/day/20) |     |     |                           |      |
-| [08](https://adventofcode.com/2022/day/8)  |     |     |                           |      | | [21](https://adventofcode.com/2022/day/21) |     |     |                           |      |
-| [09](https://adventofcode.com/2022/day/9)  |     |     |                           |      | | [22](https://adventofcode.com/2022/day/22) |     |     |                           |      |
-| [10](https://adventofcode.com/2022/day/10) |     |     |                           |      | | [23](https://adventofcode.com/2022/day/23) |     |     |                           |      |
-| [11](https://adventofcode.com/2022/day/11) |     |     |                           |      | | [24](https://adventofcode.com/2022/day/24) |     |     |                           |      |
-| [12](https://adventofcode.com/2022/day/12) |     |     |                           |      | | [25](https://adventofcode.com/2022/day/25) |     |     |                           |      |
-| [13](https://adventofcode.com/2022/day/13) |     |     |                           |      | |                                            |     |     |                           |      |
+| [01](https://adventofcode.com/2023/day/1)  | ⭐  | ⭐  | [day01.py](src/day01.py)  | 🟢🟢 | | [14](https://adventofcode.com/2023/day/14) |     |     |                           |      |
+| [02](https://adventofcode.com/2023/day/2)  |     |     |                           |      | | [15](https://adventofcode.com/2023/day/15) |     |     |                           |      |
+| [03](https://adventofcode.com/2023/day/3)  |     |     |                           |      | | [16](https://adventofcode.com/2023/day/16) |     |     |                           |      |
+| [04](https://adventofcode.com/2023/day/4)  |     |     |                           |      | | [17](https://adventofcode.com/2023/day/17) |     |     |                           |      |
+| [05](https://adventofcode.com/2023/day/5)  |     |     |                           |      | | [18](https://adventofcode.com/2023/day/18) |     |     |                           |      |
+| [06](https://adventofcode.com/2023/day/6)  |     |     |                           |      | | [19](https://adventofcode.com/2023/day/19) |     |     |                           |      |
+| [07](https://adventofcode.com/2023/day/7)  |     |     |                           |      | | [20](https://adventofcode.com/2023/day/20) |     |     |                           |      |
+| [08](https://adventofcode.com/2023/day/8)  |     |     |                           |      | | [21](https://adventofcode.com/2023/day/21) |     |     |                           |      |
+| [09](https://adventofcode.com/2023/day/9)  |     |     |                           |      | | [22](https://adventofcode.com/2023/day/22) |     |     |                           |      |
+| [10](https://adventofcode.com/2023/day/10) |     |     |                           |      | | [23](https://adventofcode.com/2023/day/23) |     |     |                           |      |
+| [11](https://adventofcode.com/2023/day/11) |     |     |                           |      | | [24](https://adventofcode.com/2023/day/24) |     |     |                           |      |
+| [12](https://adventofcode.com/2023/day/12) |     |     |                           |      | | [25](https://adventofcode.com/2023/day/25) |     |     |                           |      |
+| [13](https://adventofcode.com/2023/day/13) |     |     |                           |      | |                                            |     |     |                           |      |
 
 <sub>🟢 < 1 day | 🟡 1÷7 days | 🟠 = 7+ days</sub>
 
@@ -24,7 +24,7 @@
 
 ## 🎵 On the Nth day of Christmas, my true love sent to me 🎶
 
-1. ?
+1. A [meme](https://knowyourmeme.com/memes/trebuchets) from 2015
 
 *Only added when both parts are completed*
 

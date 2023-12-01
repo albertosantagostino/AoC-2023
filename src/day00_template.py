@@ -3,6 +3,8 @@
 
 import ipdb
 
+from copy import deepcopy
+
 from common.meta_utils import get_puzzle_input
 
 
@@ -16,5 +18,5 @@ def part2(puzzle_input):
 
 if __name__ == "__main__":
     puzzle_input = get_puzzle_input(filename=__file__)
-    print(f"Part 1 solution: {part1(puzzle_input)}")
-    print(f"Part 2 solution: {part2(puzzle_input)}")
+    print(f"Part 1 solution: {part1(deepcopy(puzzle_input))}")
+    print(f"Part 2 solution: {part2(deepcopy(puzzle_input))}")
