@@ -1,0 +1,55 @@
+# Advent of Code 2023 🎄
+
+<div align="center">
+
+| Day                                        | 1   | 2   | 📃                        | ⏲️   | | Day                                        | 1   | 2   | 📃                        | ⏲️   |
+| ------------------------------------------ | :-: | :-: | :-----------------------: | :--: |-| -------------------------------------------| :-: | :-: | :-----------------------: | :--: |
+| [01](https://adventofcode.com/2022/day/1)  |     |     |                           |      | | [14](https://adventofcode.com/2022/day/14) |     |     |                           |      |
+| [02](https://adventofcode.com/2022/day/2)  |     |     |                           |      | | [15](https://adventofcode.com/2022/day/15) |     |     |                           |      |
+| [03](https://adventofcode.com/2022/day/3)  |     |     |                           |      | | [16](https://adventofcode.com/2022/day/16) |     |     |                           |      |
+| [04](https://adventofcode.com/2022/day/4)  |     |     |                           |      | | [17](https://adventofcode.com/2022/day/17) |     |     |                           |      |
+| [05](https://adventofcode.com/2022/day/5)  |     |     |                           |      | | [18](https://adventofcode.com/2022/day/18) |     |     |                           |      |
+| [06](https://adventofcode.com/2022/day/6)  |     |     |                           |      | | [19](https://adventofcode.com/2022/day/19) |     |     |                           |      |
+| [07](https://adventofcode.com/2022/day/7)  |     |     |                           |      | | [20](https://adventofcode.com/2022/day/20) |     |     |                           |      |
+| [08](https://adventofcode.com/2022/day/8)  |     |     |                           |      | | [21](https://adventofcode.com/2022/day/21) |     |     |                           |      |
+| [09](https://adventofcode.com/2022/day/9)  |     |     |                           |      | | [22](https://adventofcode.com/2022/day/22) |     |     |                           |      |
+| [10](https://adventofcode.com/2022/day/10) |     |     |                           |      | | [23](https://adventofcode.com/2022/day/23) |     |     |                           |      |
+| [11](https://adventofcode.com/2022/day/11) |     |     |                           |      | | [24](https://adventofcode.com/2022/day/24) |     |     |                           |      |
+| [12](https://adventofcode.com/2022/day/12) |     |     |                           |      | | [25](https://adventofcode.com/2022/day/25) |     |     |                           |      |
+| [13](https://adventofcode.com/2022/day/13) |     |     |                           |      | |                                            |     |     |                           |      |
+
+<sub>🟢 < 1 day | 🟡 1÷7 days | 🟠 = 7+ days</sub>
+
+</div>
+
+## 🎵 On the Nth day of Christmas, my true love sent to me 🎶
+
+1. ?
+
+*Only added when both parts are completed*
+
+## Suggested Christmas songs 🔔
+
+TBD
+
+## How to run
+
+`Python 3.9` and `poetry` required. From the root folder:
+
+````bash
+# Prepare virtualenv (will be placed at .venv/). Only needed the first time
+poetry install
+# Activate the virtualenv
+source .venv/bin/activate
+# Run the solution
+python3.9 src/day__.py
+````
+
+The script `src/day00_template.py` is a template  
+Scripts are configured to automatically download puzzle inputs
+
+### Setup (automatic puzzle input download)
+
+To get and set your credentials: login into [AoC](https://adventofcode.com/), open the Web Developer Tools (`CTRL+SHIFT+I`). Go to the `Storage` tab (or `Application/Storage` in Chrome) and copy the value of your `session` cookie into the `aoc_cookie` entry of `config.json`
+
+**Security note**: do not commit the `config.json` file as it contains your personal cookie. Run `git update-index --assume-unchanged config.json` to prevent git from tracking the file
