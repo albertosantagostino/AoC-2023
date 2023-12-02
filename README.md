@@ -5,7 +5,7 @@
 | Day                                        | 1   | 2   | 📃                        | ⏲️   | | Day                                        | 1   | 2   | 📃                        | ⏲️   |
 | ------------------------------------------ | :-: | :-: | :-----------------------: | :--: |-| -------------------------------------------| :-: | :-: | :-----------------------: | :--: |
 | [01](https://adventofcode.com/2023/day/1)  | ⭐  | ⭐  | [day01.py](src/day01.py)  | 🟢🟢 | | [14](https://adventofcode.com/2023/day/14) |     |     |                           |      |
-| [02](https://adventofcode.com/2023/day/2)  |     |     |                           |      | | [15](https://adventofcode.com/2023/day/15) |     |     |                           |      |
+| [02](https://adventofcode.com/2023/day/2)  | ⭐  | ⭐  | [day02.py](src/day02.py)  | 🟢🟢 | | [15](https://adventofcode.com/2023/day/15) |     |     |                           |      |
 | [03](https://adventofcode.com/2023/day/3)  |     |     |                           |      | | [16](https://adventofcode.com/2023/day/16) |     |     |                           |      |
 | [04](https://adventofcode.com/2023/day/4)  |     |     |                           |      | | [17](https://adventofcode.com/2023/day/17) |     |     |                           |      |
 | [05](https://adventofcode.com/2023/day/5)  |     |     |                           |      | | [18](https://adventofcode.com/2023/day/18) |     |     |                           |      |
@@ -25,6 +25,7 @@
 ## 🎵 On the Nth day of Christmas, my true love sent to me 🎶
 
 1. A [meme](https://knowyourmeme.com/memes/trebuchets) from 2015
+2. A tavern game from a DnD setting
 
 *Only added when both parts are completed*
 
