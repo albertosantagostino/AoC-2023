@@ -7,7 +7,7 @@
 | [01](https://adventofcode.com/2023/day/1)  | ⭐  | ⭐  | [day01.py](src/day01.py)  | 🟢🟢 | | [14](https://adventofcode.com/2023/day/14) |     |     |                           |      |
 | [02](https://adventofcode.com/2023/day/2)  | ⭐  | ⭐  | [day02.py](src/day02.py)  | 🟢🟢 | | [15](https://adventofcode.com/2023/day/15) |     |     |                           |      |
 | [03](https://adventofcode.com/2023/day/3)  |     |     |                           |      | | [16](https://adventofcode.com/2023/day/16) |     |     |                           |      |
-| [04](https://adventofcode.com/2023/day/4)  |     |     |                           |      | | [17](https://adventofcode.com/2023/day/17) |     |     |                           |      |
+| [04](https://adventofcode.com/2023/day/4)  | ⭐  | ⭐  | [day04.py](src/day04.py)  | 🟢🟢 | | [17](https://adventofcode.com/2023/day/17) |     |     |                           |      |
 | [05](https://adventofcode.com/2023/day/5)  |     |     |                           |      | | [18](https://adventofcode.com/2023/day/18) |     |     |                           |      |
 | [06](https://adventofcode.com/2023/day/6)  |     |     |                           |      | | [19](https://adventofcode.com/2023/day/19) |     |     |                           |      |
 | [07](https://adventofcode.com/2023/day/7)  |     |     |                           |      | | [20](https://adventofcode.com/2023/day/20) |     |     |                           |      |
@@ -31,7 +31,7 @@
 
 ## Suggested Christmas songs 🔔
 
-TBD
+- [I Want a Hippopotamus for Christmas](https://www.youtube.com/watch?v=57vrqCENNPc)
 
 ## How to run
 
