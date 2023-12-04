@@ -12,8 +12,8 @@ def part1(puzzle_input):
     puzzle_input = [[ch for ch in line if ch.isdigit()] for line in puzzle_input]
     puzzle_input = [[int(ch) for idx, ch in enumerate(line) if (idx == 0 or idx == len(line) - 1)]
                     for line in puzzle_input]
-
     result = 0
+
     for line in filter(None, puzzle_input):
         try:
             result += line[0] * 10 + line[1]
@@ -24,8 +24,8 @@ def part1(puzzle_input):
 
 
 def part2(puzzle_input):
-
     replaced_puzzle_input = []
+
     for line in puzzle_input:
         for idx, kk in enumerate(DIGITS):
             line = line.replace(kk, kk[0] + str(idx + 1) + kk[-1])
