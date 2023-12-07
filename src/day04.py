@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import ipdb
-
 from copy import deepcopy
 
 from common.meta_utils import get_puzzle_input

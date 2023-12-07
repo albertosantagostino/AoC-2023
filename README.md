@@ -8,9 +8,9 @@
 | [02](https://adventofcode.com/2023/day/2)  | ⭐  | ⭐  | [day02.py](src/day02.py)  | 🟢🟢 | | [15](https://adventofcode.com/2023/day/15) |     |     |                           |      |
 | [03](https://adventofcode.com/2023/day/3)  |     |     |                           |      | | [16](https://adventofcode.com/2023/day/16) |     |     |                           |      |
 | [04](https://adventofcode.com/2023/day/4)  | ⭐  | ⭐  | [day04.py](src/day04.py)  | 🟢🟢 | | [17](https://adventofcode.com/2023/day/17) |     |     |                           |      |
-| [05](https://adventofcode.com/2023/day/5)  |     |     |                           |      | | [18](https://adventofcode.com/2023/day/18) |     |     |                           |      |
+| [05](https://adventofcode.com/2023/day/5)  | ⭐  |     | [day05.py](src/day05.py)  | 🟢   | | [18](https://adventofcode.com/2023/day/18) |     |     |                           |      |
 | [06](https://adventofcode.com/2023/day/6)  |     |     |                           |      | | [19](https://adventofcode.com/2023/day/19) |     |     |                           |      |
-| [07](https://adventofcode.com/2023/day/7)  |     |     |                           |      | | [20](https://adventofcode.com/2023/day/20) |     |     |                           |      |
+| [07](https://adventofcode.com/2023/day/7)  | ⭐  | ⭐  | [day07.py](src/day07.py)  | 🟢🟢 | | [20](https://adventofcode.com/2023/day/20) |     |     |                           |      |
 | [08](https://adventofcode.com/2023/day/8)  |     |     |                           |      | | [21](https://adventofcode.com/2023/day/21) |     |     |                           |      |
 | [09](https://adventofcode.com/2023/day/9)  |     |     |                           |      | | [22](https://adventofcode.com/2023/day/22) |     |     |                           |      |
 | [10](https://adventofcode.com/2023/day/10) |     |     |                           |      | | [23](https://adventofcode.com/2023/day/23) |     |     |                           |      |
@@ -26,12 +26,18 @@
 
 1. A [meme](https://knowyourmeme.com/memes/trebuchets) from 2015
 2. A tavern game from a DnD setting
+3. -
+4. An elf with scratchcards addiction
+5. -
+6. -
+7. Yet another elf addicted to gambling
 
 *Only added when both parts are completed*
 
 ## Suggested Christmas songs 🔔
 
 - [I Want a Hippopotamus for Christmas](https://www.youtube.com/watch?v=57vrqCENNPc)
+- [Merry Merry](https://www.youtube.com/watch?v=Mo41lMhxR5Q)
 
 ## How to run
 
