@@ -9,7 +9,7 @@
 | [03](https://adventofcode.com/2023/day/3)  |     |     |                           |      | | [16](https://adventofcode.com/2023/day/16) |     |     |                           |      |
 | [04](https://adventofcode.com/2023/day/4)  | ⭐  | ⭐  | [day04.py](src/day04.py)  | 🟢🟢 | | [17](https://adventofcode.com/2023/day/17) |     |     |                           |      |
 | [05](https://adventofcode.com/2023/day/5)  | ⭐  |     | [day05.py](src/day05.py)  | 🟢   | | [18](https://adventofcode.com/2023/day/18) |     |     |                           |      |
-| [06](https://adventofcode.com/2023/day/6)  |     |     |                           |      | | [19](https://adventofcode.com/2023/day/19) |     |     |                           |      |
+| [06](https://adventofcode.com/2023/day/6)  | ⭐  | ⭐  | [day06.py](src/day06.py)  | 🟡🟡 | | [19](https://adventofcode.com/2023/day/19) |     |     |                           |      |
 | [07](https://adventofcode.com/2023/day/7)  | ⭐  | ⭐  | [day07.py](src/day07.py)  | 🟢🟢 | | [20](https://adventofcode.com/2023/day/20) |     |     |                           |      |
 | [08](https://adventofcode.com/2023/day/8)  |     |     |                           |      | | [21](https://adventofcode.com/2023/day/21) |     |     |                           |      |
 | [09](https://adventofcode.com/2023/day/9)  |     |     |                           |      | | [22](https://adventofcode.com/2023/day/22) |     |     |                           |      |
@@ -29,7 +29,7 @@
 3. -
 4. An elf with scratchcards addiction
 5. -
-6. -
+6. A race condition pun?
 7. Yet another elf addicted to gambling
 
 *Only added when both parts are completed*
